@@ -1,2 +1,2 @@
 # android_common_mvp_system
-搭建Android端通用的mvvm架构
+搭建Android端通用的mvp架构
